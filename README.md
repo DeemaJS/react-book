@@ -1,2 +1,2 @@
 # react-book
-First readed book about React
+First readed book about React (React essential)
